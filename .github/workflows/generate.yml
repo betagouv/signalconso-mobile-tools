@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch: # can be triggered manually on github
+  schedule:
+    - cron: '0 8,10,12,14,16,18 * * *'
+jobs:
+  main-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CHARLES_GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'yarn'
+          cache-dependency-path: yarn.lock
+      - run: node --version
+      - run: yarn --version
+      - run: yarn install --immutable
+      - run: yarn generate
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Auto commit with fresh dgccrf feed
