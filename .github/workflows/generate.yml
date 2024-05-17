@@ -1,3 +1,5 @@
+name: Generate feed as Json
+
 on:
   workflow_dispatch: # can be triggered manually on github
   schedule:
@@ -17,7 +19,7 @@ jobs:
       - run: node --version
       - run: yarn --version
       - run: yarn install --immutable
-      - run: yarn generate
+      - run: yarn generate-feed
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Auto commit with fresh dgccrf feed
