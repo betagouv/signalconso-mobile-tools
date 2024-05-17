@@ -4,6 +4,10 @@ on:
   workflow_dispatch: # can be triggered manually on github
   schedule:
     - cron: '0 8,10,12,14,16,18 * * *'
+
+env:
+  DGCCRF_RSS_URL: ${{ vars.DGCCRF_RSS_URL }}
+
 jobs:
   main-job:
     runs-on: ubuntu-latest
