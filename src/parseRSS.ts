@@ -26,14 +26,19 @@ nodes.forEach(node => {
   })
 })
 
-const fetchedFeed = {
+const fetchedFeed: DGCCRFActuRSSFeed = {
   title: channel?.querySelector('title')?.textContent ?? '',
   link: channel?.querySelector('link')?.textContent ?? '',
   description: channel?.querySelector('description')?.textContent ?? '',
   items: res,
 }
 
-// Filter fetched feed here
+const filteredFetchedFeed: DGCCRFActuRSSFeed = {
+  title: fetchedFeed.title,
+  link: fetchedFeed.link,
+  description: fetchedFeed.description,
+  items: fetchedFeed.items.filter(item => !!item.description && !!item.title),
+}
 
 let writtenFeed: DGCCRFActuRSSFeed | null = null
 try {
@@ -43,10 +48,10 @@ try {
   console.log(err)
 }
 
-const newFeed: DGCCRFActuRSSFeed = writtenFeed || fetchedFeed
+const newFeed: DGCCRFActuRSSFeed = writtenFeed || filteredFetchedFeed
 if (writtenFeed) {
   const writtenItems = writtenFeed.items
-  const newItems = fetchedFeed.items.filter(item => writtenItems.findIndex(i => i.guid === item.guid) < 0)
+  const newItems = filteredFetchedFeed.items.filter(item => writtenItems.findIndex(i => i.guid === item.guid) < 0)
   newFeed.items = newItems.concat(writtenItems).slice(0, 20)
 }
 
