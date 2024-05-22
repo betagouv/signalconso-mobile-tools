@@ -12,3 +12,13 @@ export interface DGCCRFActuRssItem {
   date?: string
   guid?: string
 }
+
+export interface RappelConso {
+  total_count: number
+  results: RappelConsoItem[]
+}
+
+export interface RappelConsoItem {
+  nom_de_la_marque_du_produit: string
+  date_de_publication: string
+}

@@ -5,6 +5,14 @@ import {ExceptionsHandler} from './middlewares/exceptions.handler.js'
 import {Config} from './config/config.js'
 import {DGCCRFRSSController} from './controllers/dgccrfrss.controller.js'
 import morgan from 'morgan'
+import cron from 'node-cron'
+import {fetchAndFilter} from './services/rappelconso.service.js'
+
+// Every day at 5AM
+cron.schedule('* 5 * * *', async () => {
+  const res = await fetchAndFilter()
+  return console.log(res)
+})
 
 const app = express()
 const port = Config.port
