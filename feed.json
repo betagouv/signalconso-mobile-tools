@@ -4,6 +4,13 @@
   "description": "",
   "items": [
     {
+      "title": "Prélèvements bancaires : comment vous opposer à des prélèvements indus ? ",
+      "link": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/prelevements-bancaires-comment-vous-opposer-des-prelevements-indus",
+      "description": "<p>Vous êtes prélevé pour une assurance ou un abonnement à un journal auxquels vous n’avez pas souscrit ou mis un terme depuis longtemps… Une société prélève de l’argent sur votre compte bancaire sans votre consentement ou les montants ne sont pas ceux convenus ? Des solutions existent pour les bloquer et obtenir un remboursement.</p>\n",
+      "guid": "3228684",
+      "date": "2024-05-21T16:21:11+02:00"
+    },
+    {
       "title": "Amende de 350 000 € prononcée à l’encontre de la société SMAC (numéro de SIRET : 68204083702057)",
       "link": "https://www.economie.gouv.fr/dgccrf/amende-de-350-000-eu-prononcee-lencontre-de-la-societe-smac-numero-de-siret-68204083702057",
       "description": "",
@@ -135,13 +142,6 @@
       "description": "",
       "guid": "3228363",
       "date": "2024-05-10T14:59:09+02:00"
-    },
-    {
-      "title": "Amende de 14 000 € prononcée à l’encontre de la société RKW SAINT FRERES EMBALLAGE (numéro de SIRET : 434 027 926 00030) ",
-      "link": "https://www.economie.gouv.fr/dgccrf/amende-de-14-000-eu-prononcee-lencontre-de-la-societe-rkw-saint-freres-emballage-numero-de",
-      "description": "",
-      "guid": "3228360",
-      "date": "2024-05-10T14:59:07+02:00"
     }
   ]
 }
