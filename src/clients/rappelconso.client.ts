@@ -3,9 +3,9 @@ import {PageNotFoundException} from '../utils/exceptions.js'
 import {RappelConso} from '../models/model.js'
 
 export const fetchRappelConso = async (date: string, limit: number): Promise<RappelConso> => {
-  const response = await fetch(
-    `${Config.rappelConsoUrl}?where=date_de_publication >= '${date}'&order_by=date_de_publication DESC&limit=${limit}`,
-  )
+  const url = `${Config.rappelConsoUrl}?where=date_de_publication >= '${date}'&order_by=date_de_publication DESC&limit=${limit}`
+  console.log(`Generated RappelConso url: ${url}`)
+  const response = await fetch(url)
   const body = await response.json()
 
   if (response.status >= 200 && response.status < 400) {

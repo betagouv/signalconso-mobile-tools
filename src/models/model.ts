@@ -20,5 +20,7 @@ export interface RappelConso {
 
 export interface RappelConsoItem {
   nom_de_la_marque_du_produit: string
+  categorie_de_produit: string
+  sous_categorie_de_produit: string
   date_de_publication: string
 }
