@@ -5,6 +5,17 @@ import {ExceptionsHandler} from './middlewares/exceptions.handler.js'
 import {Config} from './config/config.js'
 import {DGCCRFRSSController} from './controllers/dgccrfrss.controller.js'
 import morgan from 'morgan'
+import cron from 'node-cron'
+import {fetchAndExtractRappelConso} from './services/rappelconso.service.js'
+
+if (Config.oneSignalEnablePush) {
+  console.log('Push notifications are enabled')
+  // Every day at 11AM
+  // Rappel conso is sending new item at 5 in the morning
+  cron.schedule('0 11 * * *', fetchAndExtractRappelConso)
+} else {
+  console.log('Push notifications are disabled, nothing to schedule.')
+}
 
 const app = express()
 const port = Config.port
