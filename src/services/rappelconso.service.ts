@@ -1,14 +1,17 @@
 import {fetchRappelConso} from '../clients/rappelconso.client.js'
-import {pushNotif} from '../clients/onesignal.client.js'
+import {sendToOneSignal} from '../clients/onesignal.client.js'
 import {RappelConso} from '../models/model.js'
 
-const fetchTodayRappelConso = (): Promise<RappelConso> => {
-  const date = new Date().toISOString().split('T')[0]
-  return fetchRappelConso(date, 20)
+const fetchYesterdayRappelConso = (): Promise<RappelConso> => {
+  const today = new Date().toISOString().split('T')[0]
+  const yesterday = new Date()
+  yesterday.setDate(yesterday.getDate() - 1)
+  const yesterdayAsString = yesterday.toISOString().split('T')[0]
+  return fetchRappelConso(yesterdayAsString, today, 20)
 }
 
 export const fetchAndExtractRappelConso = async () => {
-  const rappelConsoResult = await fetchTodayRappelConso()
+  const rappelConsoResult = await fetchYesterdayRappelConso()
 
   const count = rappelConsoResult.results.length
 
@@ -19,11 +22,11 @@ export const fetchAndExtractRappelConso = async () => {
     .map(category => category.category_tag)
 
   if (tags.length === 0) {
-    console.log(`No category found today. Nothing to do.`)
+    console.log(`No category found for yesterday. Nothing to do.`)
     return Promise.resolve()
   } else {
-    console.log(`Categories found today: ${tags} for ${count} rappels`)
-    return pushNotif(tags, count)
+    console.log(`Categories found for yesterday: ${tags} for ${count} rappels`)
+    return sendToOneSignal(tags, count)
   }
 }
 

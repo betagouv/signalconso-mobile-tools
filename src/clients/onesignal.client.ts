@@ -1,6 +1,6 @@
 import {Config} from '../config/config.js'
 
-export const pushNotif = async (tags: string[], count: number) => {
+export const sendToOneSignal = async (tags: string[], count: number) => {
   const filters = tags
     .flatMap(tag => {
       return [{field: 'tag', key: tag, relation: 'exists'}, {operator: 'OR'}]
@@ -10,8 +10,8 @@ export const pushNotif = async (tags: string[], count: number) => {
   console.log('Generated one signal filters', filters)
 
   const frContent =
-    count > 1 ? `${count} nouveaux produits rappelés` : `Un nouveau produit a été rappelé dans la catégorie ${tags[0]}`
-  const enContent = count > 1 ? `${count} new products recalled` : `One new product has been recalled in ${tags[0]}`
+    count > 1 ? `${count} nouveaux produits rappelés hier` : `Un nouveau produit a été rappelé dans la catégorie ${tags[0]}`
+  const enContent = count > 1 ? `${count} new products recalled yesterday` : `One new product has been recalled in ${tags[0]}`
 
   const fetchOptions = {
     method: 'POST',

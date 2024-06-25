@@ -2,8 +2,8 @@ import {Config} from '../config/config.js'
 import {PageNotFoundException} from '../utils/exceptions.js'
 import {RappelConso} from '../models/model.js'
 
-export const fetchRappelConso = async (date: string, limit: number): Promise<RappelConso> => {
-  const url = `${Config.rappelConsoUrl}?where=date_de_publication >= '${date}'&order_by=date_de_publication DESC&limit=${limit}`
+export const fetchRappelConso = async (date1: string, date2: string, limit: number): Promise<RappelConso> => {
+  const url = `${Config.rappelConsoUrl}?where=date_de_publication >= '${date1}'&date_de_publication < '${date2}'&order_by=date_de_publication DESC&limit=${limit}`
   console.log(`Generated RappelConso url: ${url}`)
   const response = await fetch(url)
   const body = await response.json()
