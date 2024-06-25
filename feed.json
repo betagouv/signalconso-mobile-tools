@@ -4,6 +4,13 @@
   "description": "",
   "items": [
     {
+      "title": "L’application SignalConso s’enrichit : tour d’horizon des nouvelles fonctionnalités",
+      "link": "https://www.economie.gouv.fr/dgccrf/lapplication-signalconso-senrichit-tour-dhorizon-des-nouvelles-fonctionnalites",
+      "description": "<p>SignalConso, la plateforme de la DGCCRF permettant d’effectuer des signalements et de déposer des réclamations sur des problèmes liés à la consommation, est accessible sur internet ainsi que sur smartphone, grâce à son application. Disponible sur iOS et GooglePlay, celle-ci fait peau neuve pour proposer de toutes nouvelles fonctionnalités afin d’accompagner vos démarches toujours plus loin. On fait le point.</p>\n",
+      "guid": "3229443",
+      "date": "2024-06-17T11:30:19+02:00"
+    },
+    {
       "title": "Délais de paiement interentreprises : 248 entreprises contrôlées par la DGCCRF et près de 30 millions d’euros de sanction administrative prononcées",
       "link": "https://www.economie.gouv.fr/dgccrf/delais-de-paiement-interentreprises-248-entreprises-controlees-par-la-dgccrf-et-pres-de-30-0",
       "description": "<p><strong>La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) conduit tous les ans des contrôles pour s’assurer du respect des délais de paiement interentreprises, une condition essentielle à la viabilité des entreprises, particulièrement des PME.</strong></p>\n",
@@ -135,13 +142,6 @@
       "description": "<p>Chocs électriques, incendies, brûlures, étouffements : les produits électriques peuvent présenter des risques significatifs d’accidents. Chaque année, la DGCCRF procède à des contrôles de produits électriques de grande consommation tels que les appareils de soin des cheveux, les luminaires, les appareils de cuisson pour l’extérieur (type barbecue ou plancha) ou encore les appareils anti-moustiques. En 2022, un tiers des produits analysés s’est avéré dangereux.</p>\n",
       "guid": "3228456",
       "date": "2024-05-14T15:36:53+02:00"
-    },
-    {
-      "title": "Recrutement sans concours ouvert aux personnes en situation de handicap",
-      "link": "https://www.economie.gouv.fr/dgccrf/recrutement-sans-concours-ouvert-aux-personnes-en-situation-de-handicap",
-      "description": "<p>La Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF), direction du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, recrute, au titre de l'année 2024, six inspecteurs et trois contrôleurs de la concurrence, de la consommation et de la répression des fraudes (CCRF) en situation de handicap. Vous êtes intéressé ? Déposez votre dossier de candidature au plus tard le 22 mai.</p>\n",
-      "guid": "3228447",
-      "date": "2024-05-14T11:52:37+02:00"
     }
   ]
 }
