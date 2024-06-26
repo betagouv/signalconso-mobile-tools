@@ -52,7 +52,10 @@ const newFeed: DGCCRFActuRSSFeed = writtenFeed || filteredFetchedFeed
 if (writtenFeed) {
   const writtenItems = writtenFeed.items
   const newItems = filteredFetchedFeed.items.filter(item => writtenItems.findIndex(i => i.guid === item.guid) < 0)
-  newFeed.items = newItems.concat(writtenItems).slice(0, 20)
+  newFeed.items = newItems
+    .concat(writtenItems)
+    .sort((a, b) => (a.date && b.date ? -a.date.localeCompare(b.date) : 0))
+    .slice(0, 20)
 }
 
 try {
