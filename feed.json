@@ -1,147 +1,63 @@
 {
-  "title": "Flux RSS DGCCRF",
+  "title": "Flux RSS DGCCRF SignalConso",
   "link": "https://www.economie.gouv.fr/",
   "description": "",
   "items": [
     {
       "title": "Shrinkflation : les consommateurs seront mieux avertis des baisses de quantités masquant une hausse de prix",
       "link": "https://www.economie.gouv.fr/dgccrf/shrinkflation-les-consommateurs-seront-mieux-avertis-des-baisses-de-quantites-masquant-une",
-      "description": "<p>Les grandes surfaces devront désormais avertir leurs clients quand la quantité vendue d’un produit aura diminué sans que son prix ne soit réduit d’autant.</p>\n",
+      "description": "Les grandes surfaces devront désormais avertir leurs clients quand la quantité vendue d’un produit aura diminué sans que son prix ne soit réduit d’autant.\n",
       "guid": "3228711",
       "date": "2024-07-01T15:21:09+02:00"
     },
     {
       "title": "Droits des passagers par voie ferroviaire : peu d’anomalies relevées concernant l’information pré-contractuelle, les obligations d’assistance et le remboursement des billets en cas d’annulation",
       "link": "https://www.economie.gouv.fr/dgccrf/droits-des-passagers-par-voie-ferroviaire-peu-danomalies-relevees-concernant-linformation",
-      "description": "<p>Dans le cadre de l’ouverture à la concurrence du transport ferroviaire, plusieurs opérateurs circulent désormais sur le réseau français. La DGCCRF a contrôlé en 2022 les trois principales entreprises du secteur afin de s’assurer du respect par ces opérateurs du règlement européen n° 1371/2007 sur les droits et obligations des voyageurs ferroviaires.</p>\n",
+      "description": "Dans le cadre de l’ouverture à la concurrence du transport ferroviaire, plusieurs opérateurs circulent désormais sur le réseau français. La DGCCRF a contrôlé en 2022 les trois principales entreprises du secteur afin de s’assurer du respect par ces opérateurs du règlement européen n° 1371/2007 sur les droits et obligations des voyageurs ferroviaires.\n",
       "guid": "3229740",
       "date": "2024-06-27T15:16:04+02:00"
     },
     {
       "title": "L’application SignalConso s’enrichit : tour d’horizon des nouvelles fonctionnalités",
       "link": "https://www.economie.gouv.fr/dgccrf/lapplication-signalconso-senrichit-tour-dhorizon-des-nouvelles-fonctionnalites",
-      "description": "<p>SignalConso, la plateforme de la DGCCRF permettant d’effectuer des signalements et de déposer des réclamations sur des problèmes liés à la consommation, est accessible sur internet ainsi que sur smartphone, grâce à son application. Disponible sur iOS et GooglePlay, celle-ci fait peau neuve pour proposer de toutes nouvelles fonctionnalités afin d’accompagner vos démarches toujours plus loin. On fait le point.</p>\n",
+      "description": "SignalConso, la plateforme de la DGCCRF permettant d’effectuer des signalements et de déposer des réclamations sur des problèmes liés à la consommation, est accessible sur internet ainsi que sur smartphone, grâce à son application. Disponible sur iOS et GooglePlay, celle-ci fait peau neuve pour proposer de toutes nouvelles fonctionnalités afin d’accompagner vos démarches toujours plus loin. On fait le point.\n",
       "guid": "3229443",
       "date": "2024-06-25T11:30:19+02:00"
     },
     {
-      "title": "Délais de paiement interentreprises : 248 entreprises contrôlées par la DGCCRF et près de 30 millions d’euros de sanction administrative prononcées",
-      "link": "https://www.economie.gouv.fr/dgccrf/delais-de-paiement-interentreprises-248-entreprises-controlees-par-la-dgccrf-et-pres-de-30-0",
-      "description": "<p><strong>La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) conduit tous les ans des contrôles pour s’assurer du respect des délais de paiement interentreprises, une condition essentielle à la viabilité des entreprises, particulièrement des PME.</strong></p>\n",
-      "guid": "3229572",
-      "date": "2024-06-21T13:33:05+02:00"
-    },
-    {
-      "title": "Comment appliquer la nouvelle réglementation sur l’étiquetage nutritionnel des vins ?",
-      "link": "https://www.economie.gouv.fr/dgccrf/comment-appliquer-la-nouvelle-reglementation-sur-letiquetage-nutritionnel-des-vins",
-      "description": "<p>La DGCCRF a réalisé un guide destiné aux professionnels afin d’expliquer la nouvelle réglementation imposant deux nouvelles mentions sur l’étiquetage : la liste des ingrédients et la déclaration nutritionnelle.</p>\n",
-      "guid": "3228048",
-      "date": "2024-06-19T13:45:42+02:00"
-    },
-    {
       "title": "Soldes d’été 2024 : tout ce qu’il faut savoir pour consommer malin et durable",
       "link": "https://www.economie.gouv.fr/dgccrf/soldes-dete-2024-tout-ce-quil-faut-savoir-pour-consommer-malin-et-durable",
-      "description": "<p>Cette année, les soldes d’été se tiendront du mercredi 26 juin au mardi 23 juillet sur la grande majorité de l’Hexagone. Cette période commerciale très riche permettra, comme chaque année, aux consommateurs de profiter de bonnes affaires dans leurs boutiques favorites et sera l’occasion parfaite pour les commerçants de liquider leur collection d’été afin de préparer celle d’automne/hiver. Voici les conseils de la DGCCRF pour profiter des soldes sans stress.</p>\n",
+      "description": "Cette année, les soldes d’été se tiendront du mercredi 26 juin au mardi 23 juillet sur la grande majorité de l’Hexagone. Cette période commerciale très riche permettra, comme chaque année, aux consommateurs de profiter de bonnes affaires dans leurs boutiques favorites et sera l’occasion parfaite pour les commerçants de liquider leur collection d’été afin de préparer celle d’automne/hiver. Voici les conseils de la DGCCRF pour profiter des soldes sans stress.\n",
       "guid": "3229521",
       "date": "2024-06-19T11:11:46+02:00"
     },
     {
-      "title": "L’analyse des marchés pertinents à l’aune de la communication de la commission européenne de février 2024",
-      "link": "https://www.economie.gouv.fr/dgccrf/lanalyse-des-marches-pertinents-laune-de-la-communication-de-la-commission-europeenne-de",
-      "description": "<p><em><strong>Rendez-vous le vendredi 28 juin 2024, à 10h</strong> en visioconférence !</em></p>\n<p>Cet événement sera animé par <strong>Loraine Donnedieu de Vabres-Tranié,</strong> avocat associée Tactics et <strong>Etienne Pfister, </strong>ancien chef économiste de l’Autorité de la concurrence, partner de RBB Economics.</p>\n",
-      "guid": "3229203",
-      "date": "2024-06-17T14:20:03+02:00"
-    },
-    {
       "title": "Réussir l’adaptation de son logement au vieillissement ou au handicap",
       "link": "https://www.economie.gouv.fr/dgccrf/reussir-ladaptation-de-son-logement-au-vieillissement-ou-au-handicap",
-      "description": "<p>Vous souhaitez effectuer des travaux d’adaptation de votre domicile en raison d’une perte d’autonomie. Avant toute démarche, prenez le temps de la réflexion, vous pouvez utilement contacter un conseiller France Rénov’. Comparez les offres des différents professionnels et soyez vigilant : ces prestations peuvent attirer des opérateurs aux pratiques frauduleuses.</p>\n",
+      "description": "Vous souhaitez effectuer des travaux d’adaptation de votre domicile en raison d’une perte d’autonomie. Avant toute démarche, prenez le temps de la réflexion, vous pouvez utilement contacter un conseiller France Rénov’. Comparez les offres des différents professionnels et soyez vigilant : ces prestations peuvent attirer des opérateurs aux pratiques frauduleuses.\n",
       "guid": "3229320",
       "date": "2024-06-14T10:37:36+02:00"
     },
     {
       "title": "Voyages, hébergements, loisirs et Jeux Olympiques : préparez votre été 2024",
       "link": "https://www.economie.gouv.fr/dgccrf/voyages-hebergements-loisirs-et-jeux-olympiques-preparez-votre-ete-2024",
-      "description": "<p>Vous avez l’intention de profiter de l’été pour vous initier à une nouvelle activité sportive ? Vous souhaitez vous envoler vers une destination ensoleillée ? Vous avez prévu d’assister à des compétitions pendant les Jeux Olympiques ? Être bien informé vous permettra d’éviter les pièges et de faire des choix avisés. La DGGCRF vous conseille. </p>\n",
+      "description": "Vous avez l’intention de profiter de l’été pour vous initier à une nouvelle activité sportive ? Vous souhaitez vous envoler vers une destination ensoleillée ? Vous avez prévu d’assister à des compétitions pendant les Jeux Olympiques ? Être bien informé vous permettra d’éviter les pièges et de faire des choix avisés. La DGGCRF vous conseille. \n",
       "guid": "3228957",
       "date": "2024-06-14T08:23:06+02:00"
     },
     {
-      "title": "Vente de meubles design et accessoires de décoration sur internet : attention aux pièges",
-      "link": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/vente-de-meubles-design-et-accessoires-de-decoration-sur-internet-attention-aux-pieges",
-      "description": "<p>La DGCCRF et le Centre européen des consommateurs reçoivent de nombreuses plaintes de consommateurs qui ont commandé des meubles design « inspirés » de célèbres créateurs et accessoires de décoration sur des sites de vente en ligne. Certains sites sont spécialisés dans la vente d’accessoires tels que des coussins gonflables.</p>\n",
-      "guid": "3229134",
-      "date": "2024-06-12T10:57:46+02:00"
-    },
-    {
-      "title": "La DGCCRF clôture une enquête d’ampleur inédite auprès de 20 responsables de mise sur le marché concernant l’étiquetage des pneumatiques",
-      "link": "https://www.economie.gouv.fr/dgccrf/la-dgccrf-cloture-une-enquete-dampleur-inedite-aupres-de-20-responsables-de-mise-sur-le",
-      "description": "<p>Dans le cadre des engagements pour la croissance verte souscrits par le Gouvernement, la DGCCRF a diligenté de 2019 à 2021 une enquête auprès de 20 responsables de la mise sur le marché de pneumatiques pour vérifier la conformité de leurs étiquetages et notamment les performances annoncées des pneus.</p>\n",
-      "guid": "3228999",
-      "date": "2024-06-04T17:03:16+02:00"
-    },
-    {
       "title": "Derrière l’étiquette : la sécurité et la loyauté des textiles et chaussures ",
       "link": "https://www.economie.gouv.fr/dgccrf/derriere-letiquette-la-securite-et-la-loyaute-des-textiles-et-chaussures",
-      "description": "<p>Le secteur des textiles et des chaussures a fait l’objet d’une vaste enquête de la DGCCRF au cours des années 2022-2023. Plus de 800 établissements ont été contrôlés. Les mauvaises surprises ont été multiples. 46 % des établissements contrôlés étaient en anomalie ce qui a donné lieu à 300 avertissements et 60 injonctions mais aussi à 15 amendes administratives et 16 procès-verbaux pénaux. Bilan de cette enquête d’ampleur.</p>\n",
+      "description": "Le secteur des textiles et des chaussures a fait l’objet d’une vaste enquête de la DGCCRF au cours des années 2022-2023. Plus de 800 établissements ont été contrôlés. Les mauvaises surprises ont été multiples. 46 % des établissements contrôlés étaient en anomalie ce qui a donné lieu à 300 avertissements et 60 injonctions mais aussi à 15 amendes administratives et 16 procès-verbaux pénaux. Bilan de cette enquête d’ampleur.\n",
       "guid": "3229002",
       "date": "2024-06-04T15:46:18+02:00"
     },
     {
       "title": "Sécurité des produits d’hygiène : les pays de l’Union européenne agissent conjointement",
       "link": "https://www.economie.gouv.fr/dgccrf/securite-des-produits-dhygiene-les-pays-de-lunion-europeenne-agissent-conjointement",
-      "description": "<p>Entre août et octobre 2022, une enquête a été menée conjointement par plusieurs États membres de l’Union européenne, dont la France, pour contrôler les produits d’hygiène à usage unique (couches pour bébé, serviettes hygiéniques, protège-slips, tampons) mis sur le marché.</p>\n",
+      "description": "Entre août et octobre 2022, une enquête a été menée conjointement par plusieurs États membres de l’Union européenne, dont la France, pour contrôler les produits d’hygiène à usage unique (couches pour bébé, serviettes hygiéniques, protège-slips, tampons) mis sur le marché.\n",
       "guid": "3228762",
       "date": "2024-06-04T15:45:48+02:00"
-    },
-    {
-      "title": "Recouvrement amiable de créances : un secteur sous surveillance de la DGCCRF",
-      "link": "https://www.economie.gouv.fr/dgccrf/recouvrement-amiable-de-creances-un-secteur-sous-surveillance-de-la-dgccrf-0",
-      "description": "<p>En 2022, la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) a enquêté auprès des sociétés de recouvrement et des commissaires de justice (ex-huissiers de justice) sur les pratiques liées au recouvrement amiable de créances. 41 % des 161 établissements contrôlés sont en anomalie.</p>\n",
-      "guid": "3228906",
-      "date": "2024-05-30T10:33:56+02:00"
-    },
-    {
-      "title": "La loi SREN donne de nouvelles compétences à la DGCCRF pour réguler les plateformes numériques",
-      "link": "https://www.economie.gouv.fr/dgccrf/la-loi-sren-donne-de-nouvelles-competences-la-dgccrf-pour-reguler-les-plateformes-numeriques",
-      "description": "<p>La Direction de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) se voit confier de nouvelles compétences pour mieux protéger les consommateurs et assurer une concurrence loyale sur les marchés numériques. </p>\n",
-      "guid": "3228768",
-      "date": "2024-05-29T10:50:37+02:00"
-    },
-    {
-      "title": "Conseils pour réussir la rénovation énergétique de son logement",
-      "link": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/conseils-pour-reussir-la-renovation-energetique-de-son-logement",
-      "description": "<p>Vous souhaitez faire installer des équipements de production d’énergie renouvelable ou améliorer l’isolation de votre logement pour réduire votre facture énergétique. Avant toute démarche, prenez le temps de la réflexion et comparez les offres des professionnels. Soyez également vigilants dans le cas d’un démarchage à domicile ou dans les foires et salons.</p>\n",
-      "guid": "35171",
-      "date": "2024-05-28T15:51:39+02:00"
-    },
-    {
-      "title": "Arnaque aux billets gratuits pour la Cérémonie d’ouverture des Jeux",
-      "link": "https://www.economie.gouv.fr/dgccrf/arnaque-aux-billets-gratuits-pour-la-ceremonie-douverture-des-jeux",
-      "description": "<p>Paris 2024 et ses parties prenantes ont récemment été informées de tentatives d’escroquerie à destination du grand public.</p>\n",
-      "guid": "3228789",
-      "date": "2024-05-27T09:52:07+02:00"
-    },
-    {
-      "title": "Fin du réseau de cuivre : vous êtes peut-être concernés, informez-vous !",
-      "link": "https://www.economie.gouv.fr/dgccrf/fin-du-reseau-de-cuivre-vous-etes-peut-etre-concernes-informez-vous",
-      "description": "<p>Connexion internet, appels téléphoniques, alarmes, etc… Vous avez peut-être recours au réseau de cuivre si vous avez une connexion ADSL ou RTC. La DGE édite deux guides, pour les professionnels et pour les consommateurs, afin de vous aider dans le passage de la fibre optique pour obtenir une vitesse de connexion plus élevée et adaptée aux usages actuels.</p>\n",
-      "guid": "3228726",
-      "date": "2024-05-22T14:56:41+02:00"
-    },
-    {
-      "title": "Contrats de communications électroniques : quelles dispositions pour les petits professionnels et les associations à but non lucratif ?",
-      "link": "https://www.economie.gouv.fr/dgccrf/contrats-de-communications-electroniques-quelles-dispositions-pour-les-petits-professionnels",
-      "description": "<p>En raison de leur situation comparable à celle des consommateurs lorsqu’elles souscrivent un contrat de services de communications électroniques, les micro-entreprises, petites entreprises et associations à but non lucratif sont protégées par certaines dispositions du Code de la consommation.</p>\n",
-      "guid": "3228717",
-      "date": "2024-05-22T10:52:18+02:00"
-    },
-    {
-      "title": "Prélèvements bancaires : comment vous opposer à des prélèvements indus ? ",
-      "link": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/prelevements-bancaires-comment-vous-opposer-des-prelevements-indus",
-      "description": "<p>Vous êtes prélevé pour une assurance ou un abonnement à un journal auxquels vous n’avez pas souscrit ou mis un terme depuis longtemps… Une société prélève de l’argent sur votre compte bancaire sans votre consentement ou les montants ne sont pas ceux convenus ? Des solutions existent pour les bloquer et obtenir un remboursement.</p>\n",
-      "guid": "3228684",
-      "date": "2024-05-21T16:21:11+02:00"
     }
   ]
 }
