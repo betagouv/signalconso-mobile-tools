@@ -4,6 +4,13 @@
   "description": "",
   "items": [
     {
+      "title": "Shrinkflation : les consommateurs seront mieux avertis des baisses de quantités masquant une hausse de prix",
+      "link": "https://www.economie.gouv.fr/dgccrf/shrinkflation-les-consommateurs-seront-mieux-avertis-des-baisses-de-quantites-masquant-une",
+      "description": "<p>Les grandes surfaces devront désormais avertir leurs clients quand la quantité vendue d’un produit aura diminué sans que son prix ne soit réduit d’autant.</p>\n",
+      "guid": "3228711",
+      "date": "2024-07-01T15:21:09+02:00"
+    },
+    {
       "title": "Droits des passagers par voie ferroviaire : peu d’anomalies relevées concernant l’information pré-contractuelle, les obligations d’assistance et le remboursement des billets en cas d’annulation",
       "link": "https://www.economie.gouv.fr/dgccrf/droits-des-passagers-par-voie-ferroviaire-peu-danomalies-relevees-concernant-linformation",
       "description": "<p>Dans le cadre de l’ouverture à la concurrence du transport ferroviaire, plusieurs opérateurs circulent désormais sur le réseau français. La DGCCRF a contrôlé en 2022 les trois principales entreprises du secteur afin de s’assurer du respect par ces opérateurs du règlement européen n° 1371/2007 sur les droits et obligations des voyageurs ferroviaires.</p>\n",
@@ -135,13 +142,6 @@
       "description": "<p>Vous êtes prélevé pour une assurance ou un abonnement à un journal auxquels vous n’avez pas souscrit ou mis un terme depuis longtemps… Une société prélève de l’argent sur votre compte bancaire sans votre consentement ou les montants ne sont pas ceux convenus ? Des solutions existent pour les bloquer et obtenir un remboursement.</p>\n",
       "guid": "3228684",
       "date": "2024-05-21T16:21:11+02:00"
-    },
-    {
-      "title": "Les Matinales de la DGCCRF",
-      "link": "https://www.economie.gouv.fr/dgccrf/Manifestations",
-      "description": "<p>Elles constituent des espaces de réflexion animés par des experts dans les domaines de la concurrence et de la consommation. Désireuse de répondre aux attentes des participants et pour tendre vers davantage de dynamisme, de rythme et d’interactivité, la DGCCRF fait évoluer le format de ses matinales, qui se dérouleront désormais en visioconférence.</p>\n",
-      "guid": "22594",
-      "date": "2024-05-15T08:45:32+02:00"
     }
   ]
 }
